@@ -27,13 +27,8 @@ Welcome to the Contact Management System! This project is a command-line-based a
 
 1. **Clone the repository:**
     
-    git clone 
+    Git Clone https://github.com/codeland93/backend_core_day12_homework.git
     
-2. **Navigate to the project directory:**
-    ```py
-    cd Contact_Management_System
-    ```
-
 ### Running the Application
 
 1. **Execute the Python script:**
